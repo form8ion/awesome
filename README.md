@@ -1,6 +1,6 @@
 # awesome
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Greenkeeper badge](https://badges.greenkeeper.io/form8ion/awesome.svg)](https://greenkeeper.io/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of form8ion related tools
 
@@ -16,6 +16,7 @@ A curated list of form8ion related tools
 [![Conventional Commits][commit-convention-badge]][commit-convention-link]
 [![Commitizen friendly][commitizen-badge]][commitizen-link]
 [![PRs Welcome][PRs-badge]][PRs-link]
+[![Greenkeeper badge](https://badges.greenkeeper.io/form8ion/awesome.svg)](https://greenkeeper.io/)
 
 ### Dependencies
 
