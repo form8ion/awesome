@@ -1,6 +1,6 @@
 # awesome
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Greenkeeper badge](https://badges.greenkeeper.io/form8ion/awesome.svg)](https://greenkeeper.io/)
 
 A curated list of form8ion related tools
 
