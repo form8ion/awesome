@@ -10,6 +10,78 @@ A curated list of form8ion related tools
 <!-- consumer badges -->
 [![MIT license][license-badge]][license-link]
 
+## Scaffolding
+
+### Official
+
+#### Core
+
+* [project-scaffolder](https://github.com/travi/project-scaffolder)
+
+#### Version Control Services
+
+* [github-scaffolder](https://github.com/travi/github-scaffolder)
+* [gitlab-scaffolder](https://github.com/travi/gitlab-scaffolder)
+
+#### Languages
+
+* [javascript-scaffolder](https://github.com/travi/javascript-scaffolder)
+* [ruby-scaffolder](https://github.com/form8ion/ruby-scaffolder)
+* [shell-scaffolder](https://github.com/travi/shell-scaffolder)
+
+#### JavaScript Application Types
+
+* [hapi-scaffolder](https://github.com/form8ion/hapi-scaffolder)
+* [spectacle-scaffolder](https://github.com/travi/spectacle-scaffolder)
+
+#### Hosts
+
+##### Node.js Application
+
+* [node-app-engine-standard-scaffolder](https://github.com/travi/node-app-engine-standard-scaffolder)
+
+##### Static Website
+
+* [netlify-scaffolder](https://github.com/travi/netlify-scaffolder)
+
+#### Continuous Integration Services
+
+* [travis-scaffolder-javascript](https://github.com/travi/travis-scaffolder-javascript)
+* [circle-scaffolder-javascript](https://github.com/travi/circle-scaffolder-javascript)
+* [travis-scaffolder-shell](https://github.com/travi/travis-scaffolder-shell)
+
+### User-land
+
+* [python-scaffolder](https://github.com/GainCompliance/python-scaffolder)
+
+## Shareable Config
+
+### Core
+
+#### ESLint
+
+##### Source Code
+
+* [eslint-config](https://github.com/form8ion/eslint-config)
+* [eslint-config-react](https://github.com/form8ion/eslint-config-react)
+* [eslint-config-hal](https://github.com/form8ion/eslint-config-hal)
+
+##### Tests
+
+* [eslint-config-mocha](https://github.com/form8ion/eslint-config-mocha)
+* [eslint-config-cucumber](https://github.com/form8ion/eslint-config-cucumber)
+* [eslint-config-cypress](https://github.com/form8ion/eslint-config-cypress)
+
+#### Babel
+
+* [babel-preset](https://github.com/form8ion/babel-preset)
+
+### Templates for extending core configs
+
+#### ESLint
+
+* [eslint-config-template](https://github.com/form8ion/eslint-config-template)
+
 ## Contributing
 
 <!-- contribution badges -->
