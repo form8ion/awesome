@@ -76,6 +76,14 @@ A curated list of form8ion related tools
 
 * [babel-preset](https://github.com/form8ion/babel-preset)
 
+#### commitlint
+
+* [commitlint-config](https://github.com/form8ion/commitlint-config)
+
+#### remark-lint
+
+* [remark-lint-preset](https://github.com/form8ion/remark-lint-preset)
+
 ### Templates for extending core configs
 
 #### ESLint
