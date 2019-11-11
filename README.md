@@ -5,10 +5,35 @@
 A curated list of form8ion related tools
 
 <!-- status badges -->
+
 [![Build Status][ci-badge]][ci-link]
 
 <!-- consumer badges -->
+
 [![MIT license][license-badge]][license-link]
+
+## Table of Contents
+
+* [Scaffolding](#scaffolding)
+  * [Official](#official)
+    * [Core](#core)
+    * [Version Control Services](#version-control-services)
+    * [Languages](#languages)
+    * [JavaScript Application Types](#javascript-application-types)
+    * [Hosts](#hosts)
+    * [Continuous Integration Services](#continuous-integration-services)
+  * [User-land](#user-land)
+* [Shareable Config](#shareable-config)
+  * [Core](#core-1)
+    * [ESLint](#eslint)
+    * [Babel](#babel)
+    * [commitlint](#commitlint)
+    * [remark-lint](#remark-lint)
+  * [Templates for extending core configs](#templates-for-extending-core-configs)
+    * [ESLint](#eslint-1)
+* [Contributing](#contributing)
+  * [Dependencies](#dependencies)
+  * [Verification](#verification)
 
 ## Scaffolding
 
@@ -93,6 +118,7 @@ A curated list of form8ion related tools
 ## Contributing
 
 <!-- contribution badges -->
+
 [![Conventional Commits][commit-convention-badge]][commit-convention-link]
 [![Commitizen friendly][commitizen-badge]][commitizen-link]
 [![PRs Welcome][PRs-badge]][PRs-link]
@@ -112,12 +138,21 @@ $ npm test
 ```
 
 [license-link]: LICENSE
+
 [license-badge]: https://img.shields.io/github/license/form8ion/awesome.svg
+
 [ci-link]: https://travis-ci.com/form8ion/awesome
+
 [ci-badge]: https://img.shields.io/travis/com/form8ion/awesome/master.svg
+
 [commit-convention-link]: https://conventionalcommits.org
+
 [commit-convention-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg
+
 [commitizen-link]: http://commitizen.github.io/cz-cli/
+
 [commitizen-badge]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
+
 [PRs-link]: http://makeapullrequest.com
+
 [PRs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
