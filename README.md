@@ -22,6 +22,7 @@ A curated list of form8ion related tools
     * [JavaScript Application Types](#javascript-application-types)
     * [Hosts](#hosts)
     * [Continuous Integration Services](#continuous-integration-services)
+    * [Dependency Update Services](#dependency-update-services)
   * [User-land](#user-land)
 * [Shareable Config](#shareable-config)
   * [Core](#core-1)
@@ -74,6 +75,11 @@ A curated list of form8ion related tools
 * [travis-scaffolder-javascript](https://github.com/travi/travis-scaffolder-javascript)
 * [circle-scaffolder-javascript](https://github.com/travi/circle-scaffolder-javascript)
 * [travis-scaffolder-shell](https://github.com/travi/travis-scaffolder-shell)
+
+#### Dependency Update Services
+
+* [renovate-scaffolder](https://github.com/form8ion/renovate-scaffolder)
+* [dependabot-scaffolder](https://github.com/form8ion/dependabot-scaffolder)
 
 ### User-land
 
