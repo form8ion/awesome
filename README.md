@@ -23,7 +23,7 @@ A curated list of form8ion related tools
     * [Core](#core)
     * [Version Control Services](#version-control-services)
     * [Languages](#languages)
-    * [JavaScript Application Types](#javascript-application-types)
+    * [JavaScript](#javascript)
     * [Hosts](#hosts)
     * [Continuous Integration Services](#continuous-integration-services)
     * [Dependency Update Services](#dependency-update-services)
@@ -59,10 +59,17 @@ A curated list of form8ion related tools
 * [ruby-scaffolder](https://github.com/form8ion/ruby-scaffolder)
 * [shell-scaffolder](https://github.com/travi/shell-scaffolder)
 
-#### JavaScript Application Types
+#### JavaScript
+
+##### Application Types
 
 * [hapi-scaffolder](https://github.com/form8ion/hapi-scaffolder)
 * [spectacle-scaffolder](https://github.com/travi/spectacle-scaffolder)
+
+##### Unit-Testing Frameworks
+
+* [mocha-scaffolder](https://github.com/form8ion/mocha-scaffolder)
+* [jest-scaffolder](https://github.com/form8ion/jest-scaffolder)
 
 #### Hosts
 
