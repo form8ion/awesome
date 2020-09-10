@@ -65,6 +65,15 @@ A curated list of form8ion related tools
 
 * [hapi-scaffolder](https://github.com/form8ion/hapi-scaffolder)
 * [spectacle-scaffolder](https://github.com/travi/spectacle-scaffolder)
+* [probot-scaffolder](https://github.com/form8ion/probot-scaffolder)
+* [gatbsy](https://github.com/form8ion/gatsby)
+* [nuxt](https://github.com/form8ion/nuxt)
+
+##### Package Types
+
+* [react-components-scaffolder](https://github.com/form8ion/react-components-scaffolder)
+* [scaffolder-scaffolder](https://github.com/form8ion/scaffolder-scaffolder)
+* [remark-plugin-scaffolder](https://github.com/form8ion/remark-plugin-scaffolder)
 
 ##### Unit-Testing Frameworks
 
