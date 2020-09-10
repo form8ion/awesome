@@ -94,6 +94,7 @@ A curated list of form8ion related tools
 
 * [travis-scaffolder-javascript](https://github.com/travi/travis-scaffolder-javascript)
 * [circle-scaffolder-javascript](https://github.com/travi/circle-scaffolder-javascript)
+* [github-actions-node-ci](https://github.com/form8ion/github-actions-node-ci)
 * [travis-scaffolder-shell](https://github.com/travi/travis-scaffolder-shell)
 
 #### Dependency Update Services
