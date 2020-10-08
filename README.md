@@ -59,6 +59,10 @@ A curated list of form8ion related tools
 * [ruby-scaffolder](https://github.com/form8ion/ruby-scaffolder)
 * [shell-scaffolder](https://github.com/travi/shell-scaffolder)
 
+#### High-Level Scaffolders
+
+* [eslint-config-extender](https://github.com/form8ion/eslint-config-extender)
+
 #### JavaScript
 
 ##### Application Types
