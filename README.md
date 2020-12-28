@@ -23,13 +23,17 @@ A curated list of form8ion related tools
     * [Core](#core)
     * [Version Control Services](#version-control-services)
     * [Languages](#languages)
+    * [High-Level Scaffolders](#high-level-scaffolders)
     * [JavaScript](#javascript)
     * [Hosts](#hosts)
     * [Continuous Integration Services](#continuous-integration-services)
     * [Dependency Update Services](#dependency-update-services)
   * [User-land](#user-land)
-* [Shareable Config](#shareable-config)
+* [Lifting](#lifting)
   * [Core](#core-1)
+  * [Languages](#languages-1)
+* [Shareable Config](#shareable-config)
+  * [Core](#core-2)
     * [ESLint](#eslint)
     * [Babel](#babel)
     * [commitlint](#commitlint)
@@ -109,6 +113,16 @@ A curated list of form8ion related tools
 ### User-land
 
 * [python-scaffolder](https://github.com/GainCompliance/python-scaffolder)
+
+## Lifting
+
+### Core
+
+* [lift](https://github.com/form8ion/lift)
+
+### Languages
+
+* [lift-javascript](https://github.com/form8ion/lift-javascript)
 
 ## Shareable Config
 
