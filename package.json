@@ -15,7 +15,7 @@
     "generate:md": "remark . --output"
   },
   "devDependencies": {
-    "@commitlint/cli": "12.1.3",
+    "@commitlint/cli": "12.1.4",
     "@form8ion/commitlint-config": "1.0.18",
     "@form8ion/remark-lint-preset": "1.0.13",
     "ban-sensitive-files": "1.9.15",
