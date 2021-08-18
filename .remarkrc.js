@@ -9,5 +9,5 @@ exports.settings = {
 
 exports.plugins = [
   '@form8ion/remark-lint-preset',
-  [require('remark-toc'), {tight: true, maxDepth: 4}]
+  ['remark-toc', {tight: true, maxDepth: 4}]
 ];
