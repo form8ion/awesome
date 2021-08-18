@@ -12,7 +12,8 @@
     "lint:md": "remark . --frail",
     "lint:sensitive": "ban",
     "lint:peer": "npm ls >/dev/null",
-    "generate:md": "remark . --output"
+    "generate:md": "remark . --output",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@commitlint/cli": "13.1.0",
