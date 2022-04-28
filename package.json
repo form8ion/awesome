@@ -16,7 +16,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@commitlint/cli": "16.2.3",
+    "@commitlint/cli": "16.2.4",
     "@form8ion/commitlint-config": "1.0.30",
     "@form8ion/remark-lint-preset": "3.0.0",
     "ban-sensitive-files": "1.9.18",
