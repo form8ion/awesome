@@ -23,3 +23,5 @@ jobs:
       - run: npm clean-install
       - run: npm audit signatures
       - run: npm test
+permissions:
+  contents: read
