@@ -13,7 +13,8 @@
     "lint:sensitive": "ban",
     "lint:peer": "npm ls >/dev/null",
     "generate:md": "remark . --output",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint:lockfile": "lockfile-lint"
   },
   "devDependencies": {
     "@commitlint/cli": "19.8.1",
@@ -22,9 +23,9 @@
     "ban-sensitive-files": "1.10.8",
     "cz-conventional-changelog": "3.3.0",
     "husky": "9.1.7",
+    "lockfile-lint": "4.14.1",
     "npm-run-all2": "8.0.4",
     "remark-cli": "12.0.1",
     "remark-toc": "9.0.0"
-  },
-  "dependencies": {}
+  }
 }
