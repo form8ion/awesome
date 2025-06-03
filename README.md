@@ -21,7 +21,7 @@ A curated list of form8ion related tools
 * [Scaffolding](#scaffolding)
   * [Official](#official)
     * [Core](#core)
-    * [Version Control Services](#version-control-services)
+    * [Version Control System Hosts](#version-control-system-hosts)
     * [Languages](#languages)
     * [High-Level Scaffolders](#high-level-scaffolders)
     * [JavaScript](#javascript)
@@ -31,7 +31,6 @@ A curated list of form8ion related tools
   * [User-land](#user-land)
 * [Lifting](#lifting)
   * [Core](#core-1)
-  * [Languages](#languages-1)
 * [Shareable Config](#shareable-config)
   * [Core](#core-2)
     * [ESLint](#eslint)
@@ -50,16 +49,19 @@ A curated list of form8ion related tools
 
 #### Core
 
-* [project-scaffolder](https://github.com/travi/project-scaffolder)
+* [project](https://github.com/form8ion/project)
 
-#### Version Control Services
+#### Version Control System Hosts
 
-* [github-scaffolder](https://github.com/travi/github-scaffolder)
+* [github](https://github.com/form8ion/github)
 * [gitlab-scaffolder](https://github.com/travi/gitlab-scaffolder)
 
 #### Languages
 
-* [javascript-scaffolder](https://github.com/travi/javascript-scaffolder)
+* [javascript](https://github.com/form8ion/javascript)
+* [php](https://github.com/form8ion/php)
+* [java](https://github.com/form8ion/java)
+* [python](https://github.com/form8ion/python)
 * [ruby-scaffolder](https://github.com/form8ion/ruby-scaffolder)
 * [shell-scaffolder](https://github.com/travi/shell-scaffolder)
 
@@ -100,9 +102,9 @@ A curated list of form8ion related tools
 
 #### Continuous Integration Services
 
+* [github-actions-node-ci](https://github.com/form8ion/github-actions-node-ci)
 * [travis-scaffolder-javascript](https://github.com/travi/travis-scaffolder-javascript)
 * [circle-scaffolder-javascript](https://github.com/travi/circle-scaffolder-javascript)
-* [github-actions-node-ci](https://github.com/form8ion/github-actions-node-ci)
 * [travis-scaffolder-shell](https://github.com/travi/travis-scaffolder-shell)
 
 #### Dependency Update Services
@@ -120,10 +122,6 @@ A curated list of form8ion related tools
 
 * [lift](https://github.com/form8ion/lift)
 
-### Languages
-
-* [lift-javascript](https://github.com/form8ion/lift-javascript)
-
 ## Shareable Config
 
 ### Core
@@ -138,6 +136,7 @@ A curated list of form8ion related tools
 
 ##### Tests
 
+* [eslint-config-vitest](https://github.com/form8ion/eslint-config-vitest)
 * [eslint-config-mocha](https://github.com/form8ion/eslint-config-mocha)
 * [eslint-config-cucumber](https://github.com/form8ion/eslint-config-cucumber)
 * [eslint-config-cypress](https://github.com/form8ion/eslint-config-cypress)
