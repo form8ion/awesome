@@ -185,7 +185,7 @@ $ npm test
 
 [license-link]: LICENSE
 
-[license-badge]: https://img.shields.io/github/license/form8ion/awesome.svg?logo=opensourceinitiative
+[license-badge]: https://img.shields.io/github/license/form8ion/awesome.svg
 
 [commit-convention-link]: https://conventionalcommits.org
 
